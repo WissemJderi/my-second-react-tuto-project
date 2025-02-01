@@ -29,8 +29,9 @@
   align-items: center;
   justify-content: center;
 }
-h4 {
+span {
   margin: 10px 0px;
+  font-weight: bold;
 }
 .date {
   font-weight: bold;
